@@ -4,7 +4,7 @@ Voici ici le livrable pour le test que vous m'avez demandé.
 
 ### <u>Initialisation du projet</u>
 
-Pour executer le programme, il vous faudra tout d'abord lancer les commande suivantes :
+Pour executer le programme, il vous faudra tout d'abord installer "yarn" ainsi que les dépendances du projet. Pour cela, lancer les commande suivantes sur le terminal:
 
 ```bash
 yarn && yarn add -D typescript ts-node tslib
