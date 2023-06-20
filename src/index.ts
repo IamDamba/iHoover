@@ -66,7 +66,7 @@ const MoveVaccum = (
     }
   });
 
-  let message = `position.x: ${vaccum.pos_x}, position.y: ${vaccum.pos_y}`;
+  let message = `{\nposition.x: ${vaccum.pos_x},\nposition.y: ${vaccum.pos_y}\norientation: ${vaccum.direction}\n}`;
 
   console.log(
     "\n====================== Aspirateur iHoover ======================\n"
